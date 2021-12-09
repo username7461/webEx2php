@@ -1,0 +1,1 @@
+Recommended scale on brower: less than 125%
